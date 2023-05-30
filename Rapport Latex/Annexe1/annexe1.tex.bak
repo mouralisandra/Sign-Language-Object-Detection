@@ -1,0 +1,55 @@
+\setcounter{figure}{0} 
+\setcounter{table}{0}
+\setcounter{footnote}{0}
+\setcounter{equation}{0}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\chaptermark}[1]{\markboth{\MakeUppercase{#1 }}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection~ #1}}
+\fancyhead[RO]{\bfseries\rightmark}
+\fancyhead[LE]{\bfseries\leftmark}
+\fancyfoot[RO]{\thepage}
+\fancyfoot[LE]{\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\makeatletter
+\renewcommand\thefigure{A.\arabic{figure}}
+\renewcommand\thetable{A.\arabic{table}} 
+\makeatother
+
+\chapter{Annexe : Remarques Diverses}
+\graphicspath{{Annexe1/figures/}}
+%==========================================================================
+
+%    Annexe
+
+%===========================================================================
+\begin{itemize}
+\item Un rapport doit toujours être bien numéroté;
+\item De préférence, ne pas utiliser plus que deux couleurs, ni un caractère fantaisiste; 
+\item Essayer de toujours garder votre rapport sobre et professionnel; 
+\item Ne jamais utiliser de je ni de on, mais toujours le nous (même si tu as tout fait tout seul); 
+\item Si on n'a pas de paragraphe 1.2, ne pas mettre de 1.1;
+\item TOUJOURS, TOUJOURS faire relire votre rapport à quelqu'un d'autre (de préférence qui n'est pas du domaine) pour vous corriger les fautes d'orthographe et de français;
+\item Toujours valoriser votre travail : votre contribution doit être bien claire et mise en évidence; 
+\item Dans chaque chapitre, on doit trouver une introduction et une conclusion;
+\item Ayez toujours un fil conducteur dans votre rapport. Il faut que le lecteur suive un raisonnement bien clair, et trouve la relation entre les différentes parties;
+\item Il faut toujours que les abréviations soient définies au moins la première fois ou elles sont utilisées. Si vous en avez beaucoup, utilisez un glossaire.
+\item Vous avez tendance, en décrivant  l'environnement matériel, à parler de votre ordinateur, sur lequel vous avez développé : ceci est inutile. Dans cette partie, on ne cite que le matériel qui a une influence sur votre application. Que vous l'ayez développé sur Windows Vista ou sur Ubuntu n'a aucune importance;
+\item Ne jamais mettre de titres en fin de page; 
+\item Essayer toujours d'utiliser des termes français, et éviter l'anglicisme. Si certains termes  sont plus connus en  anglais, donner leur équivalent en français la première fois que vous les utilisez,puis utilisez le mot anglais, mais en italique;
+\item éviter les phrases trop longues : clair et concis, c'est la règle générale !\\
+
+\newpage
+
+\textbf{Rappelez vous que votre rapport est le visage de votre travail : un mauvais rapport peut éclipser de l'excellent travail. Alors prêtez-y l'attention nécessaire.}
+
+ 
+\begin{figure}[!ht]\centering
+\includegraphics[scale=0.5]{ingenieur.jpg}
+%\caption{}
+%\label{fig:fig1}
+\end{figure}
+\end{itemize}
+
