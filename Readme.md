@@ -12,6 +12,3 @@ University Year: 2022/2023
 # Testing our model: 
 
 ![Image Description](test.png)
-
-# Evaluating our model: 
-![Image Description](evaluation.png)
