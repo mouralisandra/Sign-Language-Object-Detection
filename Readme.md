@@ -10,8 +10,8 @@ Major: Software Engineering (Génie Logiciel 3).
 University Year: 2022/2023 
 <br>
 # Testing our model: 
-<br>
+
 ![Image Description](test.png)
-<br>
+
 # Evaluating our model: 
 ![Image Description](evaluation.png)
