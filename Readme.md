@@ -1,7 +1,5 @@
 # Sign Language Object Detection using Mediapipe
-This notebook is written by: Sandra Mourali, Mariem Ksontini and Eya Ridene.
-<br>
-It depicts real-time hand gestures to recognize Sign Language.
+This notebook depicts real-time hand gestures to recognize Sign Language.
 <br>
 This notebook is part of our Personal Professional Project assignment at INSAT.
 <br>
